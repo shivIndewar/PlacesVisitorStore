@@ -1,0 +1,7 @@
+{
+  "name": "PlacesVisitorStore",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
